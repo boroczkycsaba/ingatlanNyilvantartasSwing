@@ -1,4 +1,4 @@
-package hu.ingatlan.verseny.swing;
+package hu.ingatlan.nyilvantartas.swing;
 
 import hu.ingatlan.kereso.entity.IngatlanAdat;
 import hu.ingatlan.nyilvantartas.adatbazis.IngatlanNyilvantartasDML;

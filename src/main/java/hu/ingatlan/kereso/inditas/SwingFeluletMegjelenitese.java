@@ -3,7 +3,7 @@ package hu.ingatlan.kereso.inditas;
 import hu.ingatlan.nyilvantartas.adatbazis.IngatlanNyilvantartasDDL;
 import hu.ingatlan.nyilvantartas.adatbazis.IngatlanNyilvantartasDML;
 import hu.ingatlan.nyilvantartas.adatbazis.SQLKapcsolat;
-import hu.ingatlan.verseny.swing.IngatlanKeresoKepernyo;
+import hu.ingatlan.nyilvantartas.swing.IngatlanKeresoKepernyo;
 import java.sql.SQLException;
 
 /**
